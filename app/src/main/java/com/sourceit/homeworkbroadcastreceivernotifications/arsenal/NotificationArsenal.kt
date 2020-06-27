@@ -8,7 +8,7 @@ import android.content.ContextWrapper
 import android.content.Intent
 import android.graphics.BitmapFactory
 import android.graphics.Color
-import com.sourceit.homeworkbroadcastreceivernotifications.MainActivity
+import com.sourceit.homeworkbroadcastreceivernotifications.UI.MainActivity
 import com.sourceit.homeworkbroadcastreceivernotifications.R
 
 abstract class NotificationArsenal(context: Context) : ContextWrapper(context) {

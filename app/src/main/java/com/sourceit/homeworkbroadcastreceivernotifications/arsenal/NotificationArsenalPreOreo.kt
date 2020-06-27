@@ -15,5 +15,4 @@ class NotificationArsenalPreOreo(context: Context) : NotificationArsenal(context
         val builder = Notification.Builder(this)
         prepareNotificationBluetoothMode(builder)
     }
-
 }
